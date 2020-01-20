@@ -39,7 +39,5 @@ def run
 
   if command == 'exit'
     exit_jukebox
-  elsif command == 'asdf'
-
   end
 end
